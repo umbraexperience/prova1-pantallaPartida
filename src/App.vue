@@ -17,9 +17,7 @@
         <button
           @click="$refs.plyr.player.currentTime = 37"
           class="button-absolute"
-        >
-          natura
-        </button>
+        ></button>
       </div>
     </vue-plyr>
   </div>
